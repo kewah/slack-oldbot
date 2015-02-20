@@ -1,0 +1,19 @@
+{
+  "name": "slack-oldbot",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Antoine Lehurt <code@kewah.com>",
+  "description": "Sisi le bot",
+  "dependencies": {
+    "hubot": "^2.11.1",
+    "hubot-help": "^0.1.1",
+    "hubot-heroku-keepalive": "0.0.4",
+    "hubot-old": "^1.0.0",
+    "hubot-redis-brain": "0.0.2",
+    "hubot-scripts": "^2.5.16",
+    "hubot-slack": "^3.2.1"
+  },
+  "engines": {
+    "node": "0.12.x"
+  }
+}
