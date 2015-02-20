@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "Antoine Lehurt <code@kewah.com>",
-  "description": "Sisi le bot",
+  "description": "Slackbot that warns you when a link has already been posted",
   "dependencies": {
     "hubot": "^2.11.1",
     "hubot-help": "^0.1.1",
